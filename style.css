@@ -1,0 +1,33 @@
+body{
+    background-image: url(https://antojandoando.com/wp-content/uploads/2019/05/pollo-sudado1-pint-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center ;
+    
+}
+.titulo-1{
+    background-color: white;
+    color:peru;
+    font:size 80px;
+}
+.button{
+    color: blue;
+    font-size: 20px;
+    font-weight: 1000;
+}
+.body-new{
+    background-image: url(https://img.freepik.com/foto-gratis/alitas-pollo-frito-primer-plano-papas-fritas_23-2148699063.jpg?w=826&t=st=1667436388~exp=1667436988~hmac=12e329871a67a849d1081fb12187d8a818d16fb6ff7b1902945af050e74d18f4);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    
+}
+.button-2{
+    color:red;
+    background-color: aqua;
+    font-weight: 600;
+    font-size: 30px;
+}tr{
+    color: wheat ;
+    
+}
